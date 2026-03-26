@@ -1,3 +1,18 @@
+> ⚠️ **重要提示（Deprecated Notice）**
+>
+> **TRTC Web SDK v4（`trtc-js-sdk`）已进入维护模式，不再推荐用于新项目开发。**
+>
+> 👉 请优先使用 **TRTC Web SDK v5**：
+> - 📦 npm：https://www.npmjs.com/package/trtc-sdk-v5  
+> - 📖 文档：https://cloud.tencent.com/document/product/647/116544  
+> - 💻 GitHub：https://github.com/Tencent-RTC/TRTC_Web  
+>
+> v5 采用更现代化的 **Track-based API 设计**，在性能、扩展性和灵活性方面均有显著提升。
+>
+> ---
+> ✅ **如果你正在开发新项目，请务必选择 v5**  
+> ⚠️ v4 仅提供关键问题修复，不再新增功能
+
 # 腾讯云实时音视频 TRTC SDK
 
 简体中文 | [English](./README.md)
